@@ -163,7 +163,11 @@ footer {
     }
 
     .item-resultado h2 {
-        font-size: 1.1rem; /* Tamanho da fonte dos títulos em telas pequenas */
+        font-size: 1.5rem; /* Tamanho da fonte dos títulos em telas pequenas */
+    }
+
+    .item-resultado {
+        width: 70vw;
     }
 
     footer {
