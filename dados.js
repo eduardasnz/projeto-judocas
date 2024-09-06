@@ -28,5 +28,25 @@ let dados = [
         titulo : "Maria Portela",
         descricao : "Maria Portela, nascida em 1988 no Rio Grande do Sul, é uma das principais judocas do Brasil na categoria médio. Com várias participações em campeonatos mundiais e Jogos Olímpicos, ela é conhecida por sua garra e determinação nos tatames.",
         link : "https://pt.wikipedia.org/wiki/Maria_Portela"
+    },
+    {
+        titulo : "Natasha Ferreira",
+        descricao : " Com talento e dedicação, Natasha vem construindo sua carreira com participações em competições importantes, representando o Brasil em torneios nacionais e internacionais.",
+        link : "https://pt.wikipedia.org/wiki/Natasha_Ferreira"
+    },
+    {
+        titulo : "Sarah Gabrielle Cabral",
+        descricao : "Sarah Gabrielle Cabral é uma entusiasta do judo, conhecida por sua dedicação e paixão pelo esporte. Ela se destaca não apenas pelas habilidades técnicas e táticas no tatame, mas também pelo espírito esportivo e a disciplina que demonstra em cada competição.",
+        link : "https://pt.wikipedia.org/wiki/Sarah_Menezes"
+    },
+    {
+        titulo : "Danielle Zangrando",
+        descricao : "Ela é conhecida por suas habilidades técnicas refinadas e sua estratégia inteligente durante as competições. Danielle tem uma abordagem técnica e estratégica que reflete anos de treinamento e dedicação ao esporte.",
+        link : "https://pt.wikipedia.org/wiki/Danielle_Zangrando"
+    },
+    {
+        titulo : "Edinanci Silva",
+        descricao : "Edinanci Silva é uma judoca reconhecida por seu desempenho e habilidade no esporte. Com uma carreira marcada por dedicação e excelentes resultados, ela se destaca tanto nas competições nacionais quanto internacionais.",
+        link : "https://pt.wikipedia.org/wiki/Edinanci_Silva"
     }
 ]
