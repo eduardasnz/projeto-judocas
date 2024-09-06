@@ -1,0 +1,54 @@
+            
+            <div class="item-resultado">
+                <h2>
+                    <a href="https://www.instagram.com/larissapimentajudo/?hl=pt-br" target="_blank">Larissa Pimenta</a>
+                </h2>
+                <!-- <img width="250vw" id="1" src="/src/Larissa_Pimenta_ganhou_a_medelha_de_bronze_Foto_Wander_Roberto_COB_bc5f0f273d.jpg" alt="Larissa Pimenta"> -->
+                <p class="descricao-meta">Larissa Cincinato Pimenta é uma judoca brasileira que vem fazendo história no esporte mundial. Nascida em São Vicente, São Paulo, em 1999, ela se tornou uma das principais atletas do judô brasileiro e já conquistou diversas medalhas importantes.</p>
+                <a href="https://pt.wikipedia.org/wiki/Larissa_Pimenta" target="_blank">Mais informações</a>
+            </div>
+
+            <div class="item-resultado">
+                <h2>
+                    <a href="https://www.instagram.com/rafaelasilvaa/?hl=pt-br" target="_blank">Rafaela Silva</a>
+                </h2>
+                <!-- <img width="250vw" id="2" src="/src/rafaelasilvacob.jpg" alt="Rafaela Silva"> -->
+                <p class="descricao-meta">Rafaela Silva é um nome que brilha no cenário do judô mundial e que representa um marco histórico para o esporte brasileiro. Nascida no Rio de Janeiro, ela se tornou um símbolo de superação e determinação, conquistando títulos e quebrando barreiras.</p>
+                <a href="https://pt.wikipedia.org/wiki/Rafaela_Silva" target="_blank">Mais informações</a>
+            </div>
+            
+            <div class="item-resultado">
+                <h2>
+                    <a href="https://www.instagram.com/_beatrizsouzaar/" target="_blank">Beatriz Souza</a>
+                </h2>
+                <!-- <img width="250vw" id="3" src="/src/2024-08-02T163221Z_1204730734_UP1EK8219XV2D_RTRMADP_3_OLYMPICS-2024-JUDO.jpg" alt=""> -->
+                <p class="descricao-meta">Beatriz Souza é uma judoca brasileira que se destacou nos Jogos Olímpicos, trazendo orgulho para o país. Sua força e técnica a colocaram entre as melhores do mundo.</p>
+                <a href="https://pt.wikipedia.org/wiki/Beatriz_Souza" target="_blank">Mais informações</a>
+            </div>
+            
+            <div class="item-resultado">
+            <h2>
+                <a href="https://www.instagram.com/mayramartins93/?hl=pt-br" target="_blank">Mayra Aguiar</a>
+            </h2>
+            <!-- <img width="250vw" id="4" src="/src/YR6YSmayra-aguiar-sorri-apos-garantir-medalha-de-bronze.jpg" alt=""> -->
+                <p class="descricao-meta">Mayra Aguiar é uma judoca brasileira renomada, natural de Porto Alegre, Rio Grande do Sul. Nascida em 1991, ela é bicampeã mundial e medalhista olímpica, sendo uma das maiores referências do judô feminino no Brasil.</p>
+                <a href="https://pt.wikipedia.org/wiki/Mayra_Aguiar" target="_blank">Mais informações</a>
+            </div>
+        
+            <div class="item-resultado">
+                <h2>
+                    <a href="https://www.instagram.com/ketleynquintanajudo/?hl=pt-br" target="_blank">Ketleyn Quadros</a>
+                </h2>
+                <!-- <img width="250vw" id="5" src="/src/1_ketleyn_quadros_3_anderson_neves_cbj-39005780.jpg" alt=""> -->
+                <p class="descricao-meta">Ketleyn Quadros é uma judoca brasileira nascida em 1987, em Ceilândia, Distrito Federal. Ela fez história ao se tornar a primeira mulher brasileira a conquistar uma medalha olímpica em esportes individuais, com o bronze nos Jogos Olímpicos de Pequim 2008.</p>
+                <a href="https://pt.wikipedia.org/wiki/Ketleyn_Quadros" target="_blank">Mais informações</a>                
+            </div>
+
+            <div class="item-resultado">
+                <h2>
+                    <a href="https://www.instagram.com/maric_portela/?hl=pt-br" target="_blank">Maria Portela</a>
+                </h2>
+                <!-- <img width="250vw" id="6" src="/src/unnamed.jpg" alt=""> -->
+                <p class="descricao-meta">Maria Portela, nascida em 1988 no Rio Grande do Sul, é uma das principais judocas do Brasil na categoria médio. Com várias participações em campeonatos mundiais e Jogos Olímpicos, ela é conhecida por sua garra e determinação nos tatames.</p>
+                <a href="https://pt.wikipedia.org/wiki/Maria_Portela" target="_blank">Mais informações</a>                
+            </div>
