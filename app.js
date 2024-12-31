@@ -1,18 +1,21 @@
 function Pesquisar() {
-        let section = document.getElementById("resultados-pesquisa")
-        section.innerHTML = "";
-        let resultados = "";
-        let titulo = '';
-        let descricao = '';
+        
+    let section = document.getElementById("resultados-pesquisa")
+    
     //campo de pesquisa
     let campoPesquisa = document.getElementById("campo-pesquisa").value
     
-
     //se o campo for uma string sem nada
     if (!campoPesquisa){
         section.innerHTML = "<p>Atleta nao encontrado.</p>"
         return
     }
+
+    campoPesquisa = campoPesquisa.toLowerCase()
+
+    let resultados = "";
+    let titulo = '';
+    let descricao = '';
 
     //para cada dado dentro da lista
     for (let dado of dados){
@@ -29,7 +32,8 @@ function Pesquisar() {
             </h2>
             <p class="descricao-meta">${dado.descricao}</p>
             <a href="${dado.link}" target="_blank">Mais informações</a>
-        </div>`
+        </div>
+        `
     }
 
     }
@@ -38,7 +42,7 @@ function Pesquisar() {
         resultados = "<p>Nada foi encontrado...</p>"
     }
 
-        section.innerHTML = resultados
+    section.innerHTML = resultados
 
-    console.log(dados)
+
 }
